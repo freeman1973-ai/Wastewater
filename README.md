@@ -42,6 +42,26 @@ This website showcases professional wastewater treatment services and expertise.
 
 **Your website will be live!** 🎉
 
+## ✏️ Edit Your Website Content
+
+**Want to change the About Me section?**
+
+👉 **[Read: HOW_TO_CHANGE_ABOUT_ME.md](HOW_TO_CHANGE_ABOUT_ME.md)** - Complete step-by-step guide
+
+**Quick Edit:**
+1. Open `index.html`
+2. Find lines 36-66 (About Me section)
+3. Edit the text
+4. Commit and push changes
+5. Wait 1-3 minutes for deployment
+6. Refresh your website
+
+**Full Guide includes:**
+- Exact line numbers for each part
+- 10 common change examples
+- Before/after code samples
+- Troubleshooting tips
+
 ## 📄 Check Website Content
 
 **Want to see what's on jasonfreeman.org?**
